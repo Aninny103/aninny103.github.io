@@ -1,0 +1,7 @@
+
+@font-face {
+  font-family: 'Consolas';
+  src: url('../font-xuyen/Consolas.eot?#iefix') format('embedded-opentype'),  url('./font-xuyen/Consolas.woff') format('woff'), url('./font-xuyen/Consolas.ttf')  format('truetype'), url('./font-xuyen/Consolas.svg#Consolas') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
